@@ -1,0 +1,5 @@
+
+package com.ianglei.ui.di
+
+
+public interface JApplicationComponent
