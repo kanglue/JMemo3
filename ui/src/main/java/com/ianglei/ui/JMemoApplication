@@ -4,7 +4,7 @@ package com.ianglei.ui;
 
 public class JMemoApplication extends Application
 {
-    onCreate()
+    onCreate();
 }
 
 
